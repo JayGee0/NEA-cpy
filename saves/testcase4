@@ -1,0 +1,126 @@
+{
+  "objects": [
+    {
+      "radius": 1.39,
+      "position": {
+        "x": 4.65,
+        "y": 4.36
+      },
+      "rotation": 0.0,
+      "mass": 3.5,
+      "invMass": 0.2857143,
+      "I": 2.9318993,
+      "invI": 0.34107584,
+      "linearVelocity": {
+        "x": 10.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.9,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 4.65,
+          "y": 4.36
+        },
+        "halfSize": {
+          "x": 1.49,
+          "y": 1.49
+        }
+      },
+      "rbID": 4
+    },
+    {
+      "radius": 1.47,
+      "position": {
+        "x": 11.64,
+        "y": 4.5
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 3.6674082,
+      "invI": 0.27267212,
+      "linearVelocity": {
+        "x": -5.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 11.64,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 1.57,
+          "y": 1.57
+        }
+      },
+      "rbID": 5
+    }
+  ],
+  "gravity": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "iterations": 15,
+  "width": 16.0,
+  "height": 9.0,
+  "quadTree": {
+    "rootNode": {
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 8.0,
+          "y": 4.5
+        }
+      },
+      "maxDepth": 4,
+      "objectCapacity": 3,
+      "childrenNodes": [],
+      "childrenObjects": [],
+      "nodeCount": 0,
+      "isLeaf": true
+    },
+    "allNodes": [
+      {
+        "bounds": {
+          "position": {
+            "x": 8.0,
+            "y": 4.5
+          },
+          "halfSize": {
+            "x": 8.0,
+            "y": 4.5
+          }
+        },
+        "maxDepth": 4,
+        "objectCapacity": 3,
+        "childrenNodes": [],
+        "childrenObjects": [],
+        "nodeCount": 0,
+        "isLeaf": true
+      }
+    ],
+    "leafNodes": []
+  },
+  "maxDepth": 2,
+  "nodeCapacity": 4
+}

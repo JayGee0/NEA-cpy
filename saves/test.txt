@@ -1,0 +1,267 @@
+{
+  "objects": [
+    {
+      "halfSize": {
+        "x": 2.01,
+        "y": 0.3
+      },
+      "position": {
+        "x": 8.0,
+        "y": 4.5
+      },
+      "rotation": 71.5,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 1.3767,
+      "invI": 0.7263746,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "e": 0.0,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 1.0222796,
+          "y": 2.101322
+        }
+      },
+      "rbID": 6
+    },
+    {
+      "halfSize": {
+        "x": 16.0,
+        "y": 0.1
+      },
+      "position": {
+        "x": 8.0,
+        "y": 0.0
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "e": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 0.0
+        },
+        "halfSize": {
+          "x": 16.1,
+          "y": 0.2
+        }
+      },
+      "rbID": 0
+    },
+    {
+      "halfSize": {
+        "x": 0.1,
+        "y": 9.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 4.5
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "e": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 0.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 0.2,
+          "y": 9.1
+        }
+      },
+      "rbID": 1
+    },
+    {
+      "halfSize": {
+        "x": 0.1,
+        "y": 9.0
+      },
+      "position": {
+        "x": 16.0,
+        "y": 4.5
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "e": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 16.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 0.2,
+          "y": 9.1
+        }
+      },
+      "rbID": 2
+    },
+    {
+      "halfSize": {
+        "x": 16.0,
+        "y": 0.1
+      },
+      "position": {
+        "x": 8.0,
+        "y": 9.0
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "e": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 9.0
+        },
+        "halfSize": {
+          "x": 16.1,
+          "y": 0.2
+        }
+      },
+      "rbID": 3
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 2.0,
+        "y": 2.0
+      },
+      "rotation": 0.0,
+      "mass": 3.5,
+      "invMass": 0.2857143,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "e": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.9,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 2.0,
+          "y": 2.0
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 4
+    }
+  ],
+  "gravity": {
+    "x": 0.0,
+    "y": -10.0
+  },
+  "collidingObjects": [],
+  "iterations": 15,
+  "width": 16.0,
+  "height": 9.0,
+  "quadTree": {
+    "rootNode": {
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 8.0,
+          "y": 4.5
+        }
+      },
+      "maxDepth": 4,
+      "objectCapacity": 3,
+      "childrenNodes": [],
+      "childrenObjects": [],
+      "nodeCount": 0,
+      "isLeaf": true
+    },
+    "allNodes": [],
+    "leafNodes": []
+  },
+  "maxDepth": 4,
+  "nodeCapacity": 4
+}

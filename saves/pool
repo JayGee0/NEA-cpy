@@ -1,0 +1,1231 @@
+{
+  "objects": [
+    {
+      "halfSize": {
+        "x": 0.84,
+        "y": 0.08
+      },
+      "position": {
+        "x": 0.89,
+        "y": 1.5
+      },
+      "rotation": 21.0,
+      "mass": 9.94,
+      "invMass": 0.100603625,
+      "I": 2.359093,
+      "invI": 0.42389172,
+      "linearVelocity": {
+        "x": 20.0,
+        "y": 20.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.0,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 0.89,
+          "y": 1.5
+        },
+        "halfSize": {
+          "x": 0.91287696,
+          "y": 0.4757155
+        }
+      },
+      "rbID": 15
+    },
+    {
+      "halfSize": {
+        "x": 16.0,
+        "y": 0.1
+      },
+      "position": {
+        "x": 8.0,
+        "y": 0.0
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 0.0
+        },
+        "halfSize": {
+          "x": 16.1,
+          "y": 0.2
+        }
+      },
+      "rbID": 0
+    },
+    {
+      "halfSize": {
+        "x": 0.1,
+        "y": 9.0
+      },
+      "position": {
+        "x": 0.0,
+        "y": 4.5
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 0.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 0.2,
+          "y": 9.1
+        }
+      },
+      "rbID": 1
+    },
+    {
+      "halfSize": {
+        "x": 0.1,
+        "y": 9.0
+      },
+      "position": {
+        "x": 16.0,
+        "y": 4.5
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 16.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 0.2,
+          "y": 9.1
+        }
+      },
+      "rbID": 2
+    },
+    {
+      "halfSize": {
+        "x": 16.0,
+        "y": 0.1
+      },
+      "position": {
+        "x": 8.0,
+        "y": 9.0
+      },
+      "rotation": 0.0,
+      "mass": 0.0,
+      "invMass": 0.0,
+      "I": 0.0,
+      "invI": 0.0,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "shape": "BOX",
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 9.0
+        },
+        "halfSize": {
+          "x": 16.1,
+          "y": 0.2
+        }
+      },
+      "rbID": 3
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 2.0,
+        "y": 2.0
+      },
+      "rotation": 0.0,
+      "mass": 3.5,
+      "invMass": 0.2857143,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.9,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 2.0,
+          "y": 2.0
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 4
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 8.0,
+        "y": 4.5
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 5
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 8.005402,
+        "y": 5.1
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 8.005402,
+          "y": 5.1
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 6
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 8.577,
+        "y": 4.74
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 8.577,
+          "y": 4.74
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 7
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 8.579547,
+        "y": 5.36
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 8.579547,
+          "y": 5.36
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 8
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 8.032,
+        "y": 5.72
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 8.032,
+          "y": 5.72
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 9
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 9.149,
+        "y": 5.01
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 9.149,
+          "y": 5.01
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 10
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 9.152118,
+        "y": 5.65
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 9.152118,
+          "y": 5.65
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 11
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 8.581,
+        "y": 5.98
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 8.581,
+          "y": 5.98
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 12
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 7.952,
+        "y": 6.37
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 7.952,
+          "y": 6.37
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 13
+    },
+    {
+      "radius": 0.3,
+      "position": {
+        "x": 9.722,
+        "y": 5.31
+      },
+      "rotation": 0.0,
+      "mass": 1.0,
+      "invMass": 1.0,
+      "I": 0.006361726,
+      "invI": 157.19003,
+      "linearVelocity": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "angularVelocity": 0.0,
+      "restitution": 0.5,
+      "friction": 0.2,
+      "color": {
+        "x": 1.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "shape": "CIRCLE",
+      "bounds": {
+        "position": {
+          "x": 9.722,
+          "y": 5.31
+        },
+        "halfSize": {
+          "x": 0.4,
+          "y": 0.4
+        }
+      },
+      "rbID": 14
+    }
+  ],
+  "gravity": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "iterations": 15,
+  "width": 16.0,
+  "height": 9.0,
+  "quadTree": {
+    "rootNode": {
+      "bounds": {
+        "position": {
+          "x": 8.0,
+          "y": 4.5
+        },
+        "halfSize": {
+          "x": 8.0,
+          "y": 4.5
+        }
+      },
+      "maxDepth": 4,
+      "objectCapacity": 3,
+      "childrenNodes": [],
+      "childrenObjects": [],
+      "nodeCount": 0,
+      "isLeaf": true
+    },
+    "bounds": {
+      "position": {
+        "x": 8.0,
+        "y": 4.5
+      },
+      "halfSize": {
+        "x": 8.0,
+        "y": 4.5
+      }
+    },
+    "maxDepth": 4,
+    "nodeCapacity": 3,
+    "objects": [
+      {
+        "halfSize": {
+          "x": 0.2,
+          "y": 0.3
+        },
+        "position": {
+          "x": 1.07,
+          "y": 1.21
+        },
+        "rotation": 38.5,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.043333337,
+        "invI": 23.076921,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.0,
+        "friction": 0.2,
+        "color": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "shape": "BOX",
+        "bounds": {
+          "position": {
+            "x": 1.07,
+            "y": 1.21
+          },
+          "halfSize": {
+            "x": 0.44327602,
+            "y": 0.45928538
+          }
+        },
+        "rbID": 15
+      },
+      {
+        "halfSize": {
+          "x": 16.0,
+          "y": 0.1
+        },
+        "position": {
+          "x": 8.0,
+          "y": 0.0
+        },
+        "rotation": 0.0,
+        "mass": 0.0,
+        "invMass": 0.0,
+        "I": 0.0,
+        "invI": 0.0,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "shape": "BOX",
+        "bounds": {
+          "position": {
+            "x": 8.0,
+            "y": 0.0
+          },
+          "halfSize": {
+            "x": 16.1,
+            "y": 0.2
+          }
+        },
+        "rbID": 0
+      },
+      {
+        "halfSize": {
+          "x": 0.1,
+          "y": 9.0
+        },
+        "position": {
+          "x": 0.0,
+          "y": 4.5
+        },
+        "rotation": 0.0,
+        "mass": 0.0,
+        "invMass": 0.0,
+        "I": 0.0,
+        "invI": 0.0,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "shape": "BOX",
+        "bounds": {
+          "position": {
+            "x": 0.0,
+            "y": 4.5
+          },
+          "halfSize": {
+            "x": 0.2,
+            "y": 9.1
+          }
+        },
+        "rbID": 1
+      },
+      {
+        "halfSize": {
+          "x": 0.1,
+          "y": 9.0
+        },
+        "position": {
+          "x": 16.0,
+          "y": 4.5
+        },
+        "rotation": 0.0,
+        "mass": 0.0,
+        "invMass": 0.0,
+        "I": 0.0,
+        "invI": 0.0,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "shape": "BOX",
+        "bounds": {
+          "position": {
+            "x": 16.0,
+            "y": 4.5
+          },
+          "halfSize": {
+            "x": 0.2,
+            "y": 9.1
+          }
+        },
+        "rbID": 2
+      },
+      {
+        "halfSize": {
+          "x": 16.0,
+          "y": 0.1
+        },
+        "position": {
+          "x": 8.0,
+          "y": 9.0
+        },
+        "rotation": 0.0,
+        "mass": 0.0,
+        "invMass": 0.0,
+        "I": 0.0,
+        "invI": 0.0,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "shape": "BOX",
+        "bounds": {
+          "position": {
+            "x": 8.0,
+            "y": 9.0
+          },
+          "halfSize": {
+            "x": 16.1,
+            "y": 0.2
+          }
+        },
+        "rbID": 3
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 2.0,
+          "y": 2.0
+        },
+        "rotation": 0.0,
+        "mass": 3.5,
+        "invMass": 0.2857143,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.9,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 2.0,
+            "y": 2.0
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 4
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 8.0,
+          "y": 4.5
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 8.0,
+            "y": 4.5
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 5
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 8.005402,
+          "y": 5.1
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 8.005402,
+            "y": 5.1
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 6
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 8.577,
+          "y": 4.74
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 8.577,
+            "y": 4.74
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 7
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 8.579547,
+          "y": 5.36
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 8.579547,
+            "y": 5.36
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 8
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 8.032,
+          "y": 5.72
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 8.032,
+            "y": 5.72
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 9
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 9.149,
+          "y": 5.01
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 9.149,
+            "y": 5.01
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 10
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 9.152118,
+          "y": 5.65
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 9.152118,
+            "y": 5.65
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 11
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 8.581,
+          "y": 5.98
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 8.581,
+            "y": 5.98
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 12
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 7.952,
+          "y": 6.37
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 7.952,
+            "y": 6.37
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 13
+      },
+      {
+        "radius": 0.3,
+        "position": {
+          "x": 9.722,
+          "y": 5.31
+        },
+        "rotation": 0.0,
+        "mass": 1.0,
+        "invMass": 1.0,
+        "I": 0.006361726,
+        "invI": 157.19003,
+        "linearVelocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "angularVelocity": 0.0,
+        "restitution": 0.5,
+        "friction": 0.2,
+        "color": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "shape": "CIRCLE",
+        "bounds": {
+          "position": {
+            "x": 9.722,
+            "y": 5.31
+          },
+          "halfSize": {
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        "rbID": 14
+      }
+    ],
+    "allNodes": [],
+    "leafNodes": []
+  },
+  "maxDepth": 4,
+  "nodeCapacity": 4
+}
